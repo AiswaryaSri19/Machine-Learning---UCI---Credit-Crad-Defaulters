@@ -1,4 +1,4 @@
-# Machine-Learning---UCI---Credit-Crad-Defaulters
+# Machine-Learning---UCI---Credit-Card-Defaulters
 
 Data Set Information:
 
